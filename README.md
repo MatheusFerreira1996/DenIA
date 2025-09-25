@@ -17,4 +17,8 @@ Denise IA é uma assistente virtual inteligente criada para oferecer suporte aut
 - [WhatsApp API]([https://mega-api-painel.app.br/])
 - Modelo de linguagem OpenAI
 
+## 📞 Contato
 
+Para dúvidas, suporte ou demonstrações da Denise IA, entre em contato:
+
+**WhatsApp:** [+55 31 97206-9781](https://wa.me/5531972069781)  
